@@ -13,7 +13,7 @@ int main()
     for(int i=0;i<2;i++)
     {for (int j=0;j<2;j++)
         {
-            printf("%d ",arr[i][j]); //add space after %d 
+            printf("%d ",arr[i][j]); //add space after %d important baat . 
         }
         printf("\n");
     }

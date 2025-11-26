@@ -1,6 +1,6 @@
 #include <stdio.h> //Write a program to print the factorial of a number.
 int main()
-{int  i,n ;
+{int i,n ;
  printf("enter the number :");
  scanf("%i",& n);
 
